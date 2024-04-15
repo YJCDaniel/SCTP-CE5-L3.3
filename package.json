@@ -1,0 +1,19 @@
+{
+  "name": "sctp-ce5-l3.3",
+  "version": "1.0.0",
+  "description": "My first node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YJCDaniel/SCTP-CE5-L3.3.git"
+  },
+  "author": "Dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YJCDaniel/SCTP-CE5-L3.3/issues"
+  },
+  "homepage": "https://github.com/YJCDaniel/SCTP-CE5-L3.3#readme"
+}
