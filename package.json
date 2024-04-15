@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YJCDaniel/SCTP-CE5-L3.3/issues"
   },
-  "homepage": "https://github.com/YJCDaniel/SCTP-CE5-L3.3#readme"
+  "homepage": "https://github.com/YJCDaniel/SCTP-CE5-L3.3#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
